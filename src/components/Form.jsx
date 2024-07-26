@@ -238,7 +238,19 @@ const Form = () => {
                       key={index}
                       className="even:bg-green-100 hover:bg-gray-100"
                     >
-                      <td className="p-3 text-center">{item.site}</td>
+                      <td className="p-3 text-center">
+                        <a
+                          href={
+                            item.site.startsWith("http")
+                              ? item.site
+                              : `http://${item.site}`
+                          }
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {item.site}
+                        </a>
+                      </td>
                       <td className="p-3 text-center">{item.username}</td>
                       <td className="p-3 text-center">
                         {item.showPassword ? item.password : "••••••••"}
