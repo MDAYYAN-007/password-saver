@@ -59,10 +59,6 @@ Check out the live demo [here](https://password-saver-mu.vercel.app/).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at mdayyanofficial@gmail.com
