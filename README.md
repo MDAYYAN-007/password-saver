@@ -1,7 +1,3 @@
-Sure! Here is the updated `README.md` with the Vercel link added:
-
----
-
 # Password Keeper
 
 ## Overview
@@ -42,7 +38,7 @@ Sure! Here is the updated `README.md` with the Vercel link added:
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
@@ -69,8 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Replace `your-email@example.com` with your actual email address and `path-to-your-screenshot.png` with the actual paths to your screenshots if you have any.
+If you have any questions or suggestions, feel free to reach out to me at mdayyanofficial@gmail.com
